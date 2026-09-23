@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c27a470dbe4af21ca0d83504",
+  "owner": "fpxmgqfqx",
+  "repo": "page-b19b208b1949640eb794b359",
+  "title": "飞飞网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b19b208b1949640eb794b359",
+      "a": "飞飞网络",
+      "b": "机场官网线路发布页",
+      "entity": "飞飞网络",
+      "brand": "飞飞网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fcf9997ddac15253ae9efa27455b631b106432839b0dc6746166da0cd6717836",
+      "content": {
+        "primary_entity": "飞飞网络",
+        "keyword1": "飞飞网络",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择客户端：iOS 可用 Shadowrocket 或 Stash，Android 可用 Clash Meta 或 v2rayNG，Windows 与 macOS 可用 Clash Verge 或 ClashX，路由器端可部署 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，复制订阅链接到客户端即可开始使用。",
+          "AI_CLOSING_TITLE": "选择飞飞网络套餐",
+          "AI_DESCRIPTION": "，飞飞网络提供基础版、旗舰版与团队版三档订阅方案，按月或按年付费，覆盖每月 100GB 至 1000GB 流量，支持 3 台至 20 台设备同时在线，旗舰版搭载 IPLC 专线并优化游戏加速，团队版支持企业定制路由与专属客户经理服务。",
+          "AI_FAQ_ANSWER_1": "套餐主要区别在月流量、设备并发数和线路类型：基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备，含 IPLC 专线与流媒体解锁；团队版 1000GB/月、20 台设备，支持定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同一订阅可在不同设备客户端中导入，超出并发数时部分设备会断开，需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_3": "年付相比月付有折扣：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按比例节省数月费用。流量需求稳定时选择年付更划算，短期测试可以先按月付费。",
+          "AI_FAQ_ANSWER_4": "在订阅页面复制 Clash 或通用订阅链接，打开对应客户端选择从剪贴板导入或手动添加订阅，更新配置后选择节点即可连接。不同客户端操作路径略有差异，可参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点并针对游戏加速优化，团队版提供 VIP 专属高带宽节点。两者都能解锁原生流媒体，团队版则面向多设备并发和定制路由需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞飞网络三档套餐的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量超出限制怎么办？",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "如何在客户端中导入订阅？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比，选择匹配日常使用的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐与功能特征",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月适合单人轻量使用，旗舰版 300GB/月满足多设备与流媒体，团队版 1000GB/月面向多人协作。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。按家庭或团队实际设备数选择，避免频繁切换登录。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线，游戏延迟更低；团队版提供 VIP 高带宽节点和定制路由，适合办公和多分支访问。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按线路类型选套餐",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端连接。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "飞飞网络提供基础版、旗舰版与团队版三档订阅，月流量 100GB 至 1000GB，设备并发 3 至 20 台，旗舰版含 IPLC 专线游戏加速优化，支持按月或按年付费。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付最高节省数月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量需求、设备数量和线路类型，在基础版、旗舰版与团队版中选择合适的订阅。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认设备操作系统与客户端支持情况，iOS 建议 Shadowrocket，桌面端可用 Clash Verge 或 ClashX。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "复制订阅链接，在客户端中导入并更新配置，选择节点后连接使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞飞网络订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "daxinjob.cn",
+    "host": "daxinjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "0ff4af1af8c5ff96d3100f691f02f42010acb2aec9fd6b72bc293048e3916f92",
+    "sitemap.xml": "84624ae75e56144a031f20aa86a404ee91d6de534b6f70908a038408fb6188d7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "810ee8aa4de8a88462f40a824cb9129cf9e15167f8e5e902411518fdf4bd22b6",
+    "robots.txt": "bc704be41a635188ab7c7f0d090656933dc5c02ffb2062a3b6479cc5e0cdae67",
+    "c106392133b02316f71dabec41c26a83.txt": "e2678cc688f45b2e402c7e26c93266296acfe2d8bc705e1603d963d75a6960b8"
+  },
+  "revision": "113de0a97fa4e5a7549f01dcbd477789be4385162512e79702a67181b5db3f40"
+}
